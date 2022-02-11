@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark SOLID Principles\Single Responsibility\bin\Debug\Single Responsibility.exe.config
+C:\Users\theok\Desktop\Quark SOLID Principles\Single Responsibility\bin\Debug\Single Responsibility.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Single Responsibility\bin\Debug\Single Responsibility.pdb
+C:\Users\theok\Desktop\Quark SOLID Principles\Single Responsibility\obj\Debug\Single Responsibility.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark SOLID Principles\Single Responsibility\obj\Debug\Single Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark SOLID Principles\Single Responsibility\obj\Debug\Single Responsibility.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Single Responsibility\obj\Debug\Single Responsibility.pdb
