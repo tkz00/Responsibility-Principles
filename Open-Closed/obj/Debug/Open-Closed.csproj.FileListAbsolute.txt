@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark SOLID Principles\Open-Closed\bin\Debug\Open-Closed.exe.config
+C:\Users\theok\Desktop\Quark SOLID Principles\Open-Closed\bin\Debug\Open-Closed.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Open-Closed\bin\Debug\Open-Closed.pdb
+C:\Users\theok\Desktop\Quark SOLID Principles\Open-Closed\obj\Debug\Open-Closed.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark SOLID Principles\Open-Closed\obj\Debug\Open-Closed.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark SOLID Principles\Open-Closed\obj\Debug\Open-Closed.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Open-Closed\obj\Debug\Open-Closed.pdb
