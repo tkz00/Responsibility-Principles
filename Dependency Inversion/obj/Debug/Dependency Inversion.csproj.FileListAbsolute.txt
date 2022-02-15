@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark SOLID Principles\Dependency Inversion\bin\Debug\Dependency Inversion.exe.config
+C:\Users\theok\Desktop\Quark SOLID Principles\Dependency Inversion\bin\Debug\Dependency Inversion.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Dependency Inversion\bin\Debug\Dependency Inversion.pdb
+C:\Users\theok\Desktop\Quark SOLID Principles\Dependency Inversion\obj\Debug\Dependency Inversion.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark SOLID Principles\Dependency Inversion\obj\Debug\Dependency Inversion.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Dependency Inversion\obj\Debug\Dependency Inversion.pdb
+C:\Users\theok\Desktop\Quark SOLID Principles\Dependency Inversion\obj\Debug\Dependency Inversion.csproj.AssemblyReference.cache

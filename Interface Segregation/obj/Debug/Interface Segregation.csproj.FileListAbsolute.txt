@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark SOLID Principles\Interface Segregation\bin\Debug\Interface Segregation.exe.config
+C:\Users\theok\Desktop\Quark SOLID Principles\Interface Segregation\bin\Debug\Interface Segregation.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Interface Segregation\bin\Debug\Interface Segregation.pdb
+C:\Users\theok\Desktop\Quark SOLID Principles\Interface Segregation\obj\Debug\Interface Segregation.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark SOLID Principles\Interface Segregation\obj\Debug\Interface Segregation.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark SOLID Principles\Interface Segregation\obj\Debug\Interface Segregation.exe
+C:\Users\theok\Desktop\Quark SOLID Principles\Interface Segregation\obj\Debug\Interface Segregation.pdb
